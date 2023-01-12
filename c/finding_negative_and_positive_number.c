@@ -1,7 +1,7 @@
 /**
  * @file finding_negative_and_positive_number.c
  * @author tafhimul kabir (tafhimulkabir@protonmail.com)
- * @brief 
+ * 
  * @version 0.1
  * @date 2022-12-07
  * 
