@@ -1,7 +1,7 @@
 /**
  * @file find_max_between_three_number.c
  * @author your name (you@domain.com)
- * @brief 
+ * 
  * @version 0.1
  * @date 2022-12-07
  * 
